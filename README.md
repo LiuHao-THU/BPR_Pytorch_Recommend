@@ -1,4 +1,4 @@
-# Bayesian_Personalized_Ranking_Pytorch
+# Pytorch Version (BPR: Bayesian Personalized Ranking from Implicit Feedback) Algorithms
 Note that I use the movie lens datasets (ml-1m)
 I used the code from https://github.com/guoyang9/BPR-pytorch
 
